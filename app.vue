@@ -48,7 +48,7 @@
       </a>
 
       <a
-        href="https://www.kaggle.com/lordraghul"
+        href="https://www.kaggle.com/sheikhops19"
         target="_blank"
         class="flex items-center justify-center gap-3 px-8 py-4 rounded-xl bg-gray-700 text-white hover:bg-amber-700 transition text-lg"
       >
@@ -57,7 +57,7 @@
       </a>
 
       <a
-        href="https://medium.com/@lyeswtf"
+        href="https://medium.com/@lyes.abdesselam"
         target="_blank"
         class="flex items-center justify-center gap-3 px-8 py-4 rounded-xl bg-gray-700 text-white hover:bg-gray-500 transition text-lg"
       >
