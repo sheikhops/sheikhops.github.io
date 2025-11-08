@@ -13,9 +13,9 @@ export default defineNuxtConfig({
   app: {
     baseURL: '/',
     head: {
-      title: 'lordraghul - Linktree',
+      title: 'sheikhops - Linktree',
       meta: [
-        { name: 'description', content: 'Linktree de lordraghul - Data Engineer & ML Engineer' },
+        { name: 'description', content: 'Linktree de sheikhops - Data Engineer & ML Engineer' },
       ],
       link: [
         { rel: 'icon', type: 'image/png', href: '/favicon.png' }

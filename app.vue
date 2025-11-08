@@ -10,7 +10,7 @@
         <span :key="isFrench">
           <span v-if="isFrench">Salut, moi c'est</span>
           <span v-else>Hello, I'm</span>
-          <span class="text-emerald-600"> lordraghul</span> ✨
+          <span class="text-emerald-600"> Lyes</span> ✨
         </span>
       </transition>
     </h1>
@@ -30,7 +30,7 @@
     <div class="flex flex-col gap-5 w-full max-w-xs mb-8">
       
       <a
-        href="https://github.com/lordraghul"
+        href="https://github.com/sheikhops"
         target="_blank"
         class="flex items-center justify-center gap-3 px-8 py-4 rounded-xl bg-gray-700 text-white hover:bg-gray-400 transition text-lg"
       >
